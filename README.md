@@ -1,5 +1,8 @@
 ## Calculator React App
 
+Project Link: https://rt-calculator-react-app.netlify.app/
+
+## Homework Description 
 Today you will be building a calculator with React.
  (Links to an external site.)Steps
 
