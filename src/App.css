@@ -62,9 +62,7 @@ button:active {
   grid-row: 5;
   color: rgb(17, 41, 74);
 }
-#backspace {
-  color: rgb(132, 128, 128)
-}
+
 
 button {
   margin: 5px;
